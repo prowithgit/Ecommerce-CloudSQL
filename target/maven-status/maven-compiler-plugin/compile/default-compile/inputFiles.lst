@@ -1,0 +1,17 @@
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\product\repository\ProductRepository.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\product\service\ProductService.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\product\controller\ProductController.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\exception\InvalidInputException.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\product\model\Product.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\category\model\Category.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\EcommerceApplication.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\product\service\ProductServiceImpl.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\category\service\CategoryServiceImpl.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\brand\repository\BrandRepository.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\brand\model\Brand.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\category\repository\CategoryRepository.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\brand\service\BrandServiceImpl.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\brand\controller\BrandController.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\brand\service\BrandService.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\category\service\CategoryService.java
+C:\Users\hp5pr\Documents\ecommerce\src\main\java\com\ecommerce\category\controller\CategoryController.java
