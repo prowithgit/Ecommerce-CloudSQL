@@ -15,7 +15,7 @@ import java.util.List;
 public class ProductController
 {
     @Autowired
-    @Qualifier("productServiceImpl")
+    @Qualifier("productServiceImplementation")
     private ProductService productService;
 
     @PostMapping("/addprod")
